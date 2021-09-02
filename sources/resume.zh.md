@@ -3,7 +3,7 @@
 ## 联系方式
 * 地址：武汉市武汉大学资源与环境学院506室
 * 电话: (+86)13419656478
-* Email: <img src="../static/images/whu.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/> &sdot;  <img src="../static/images/gmail.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/>
+* Email: <img src="/static/whu.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/> &sdot;  <img src="/static/gmail.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/>
 
 ## 教育背景
 * 2014年-现在，武汉大学，地图制图学与地理信息工程，博士

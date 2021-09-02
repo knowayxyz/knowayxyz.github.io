@@ -13,7 +13,7 @@ I’m a Ph.D. Studnet majoring in Cartography and Geographic Information Enginee
   - 中文:<br/>
         湖北省 武汉市 武汉大学 资源与环境科学学院 506实验室，430079
 * **Tel**: (+86)13419656478
-* **Email**: <img src="../static/images/whu.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/> &sdot;  <img src="../static/images/gmail.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/>
+* **Email**: <img src="/static/whu.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/> &sdot;  <img src="/static/gmail.gif" style="display: inline-block;vertical-align: middle;" alt="卢巍（Wei Lu)"/>
 
 ## More About Me
 * Resume: [English](pages/resume.en.html) &sdot; [中文](pages/resume.zh.html) &sdot; [PDF](static/resume.pdf)
