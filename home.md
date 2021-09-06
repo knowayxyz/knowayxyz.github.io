@@ -5,7 +5,7 @@ I'm Wei Lu. I received a Bachelor degree and a Ph.D in GIS from Wuhan University
 <br/>
 我是卢威。我分别在2012年和2021年从武汉大学获得GIS领域的理学学士学位和工学博士学位。我的学术背景主要在地图学和地理信息科学领域，尤其是几何算法和地理可视化。当前，我主要专注于面向地理空间数据的拓扑数据分析理论和方法的研究。<br/>
 <br/>
-My Résumé(简历): <a href="pages/resume.en.html">EN</a> &sdot;<a href="pages/resume.zh.html">中文</a>&sdot; <a href="static/resume.pdf">PDF</a>
+My Resume(简历): <a href="pages/resume.en.html">EN</a> &sdot;<a href="pages/resume.zh.html">中文</a>&sdot; <a href="static/resume.pdf">PDF</a>
 </p>
 <hr/>
 
