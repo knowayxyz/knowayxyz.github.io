@@ -14,6 +14,7 @@ page_head(){
   </head>
   <body>
     <div>
+    <hr/>
 EOF
 }
 
@@ -21,7 +22,9 @@ page_foot(){
   cat <<EOF
       <hr/>
       <footer>
-        <a href="/">$site_title</a>
+        <span style="float:left"> &copy; 2021 <a href="/">$site_title</a> </span>
+        <span style="float:right"> Because it's there - George Mallory.</span>
+        </span>
       </footer>
     </div>
   </body>
