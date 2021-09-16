@@ -1,6 +1,6 @@
 #!/bin/sh
 export PYTHONIOENCODING=UTF-8
-site_title='卢威(Wei Lu)'
+site_title='卢威 (Wei Lu)'
 echo generateing site: $site_title
 
 page_head(){
@@ -11,6 +11,7 @@ page_head(){
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>$title</title>
     <link rel="stylesheet" type="text/css" href="/static/home.css">
+    <link rel="icon" type="image/png" href="/static/favicon.png">
   </head>
   <body>
     <div>

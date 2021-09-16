@@ -1,15 +1,19 @@
 body {
   margin-left: 1%;
   background: white;
-  font-family: "Times New Roman", serif }
+  font-family: "Times New Roman", sans-serif;}
   
 div {
   width: 8.27in
  
 }
+h1 {
+ font-weight: 500;
+}
 
 h2 {
   background-color: #aaa;
+  font-weight: 400;
 }
 
 a {

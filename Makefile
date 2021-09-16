@@ -14,7 +14,7 @@ all: $(PAGES_MD) $(HOME_MD)
 	$(GEN_HOMEPAGE)
 
 server: all
-	python -m http.server
+	python3 -m http.server
 
 deploy: all
 	git add . && git commit -m "update site:`date`" && git push origin main
