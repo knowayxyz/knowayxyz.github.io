@@ -8,11 +8,10 @@ PAGES_HTML = $(wildcard $(PAGES_DIR)/*.html)
 
 GEN_HOMEPAGE = ./pagegen.sh genpage $(HOME_MD) $(HOME_HTML)
 GEN_PAGES = ./pagegen.sh pages $(PAGES_SRC) $(PAGES_DIR)
-COPY_RESUME = cp ../resume/*.pdf static/
+
 all: $(PAGES_MD) $(HOME_MD)
 	$(GEN_PAGES)
 	$(GEN_HOMEPAGE)
-	$(COPY_RESUME)
 
 server: all
 	python3 -m http.server
