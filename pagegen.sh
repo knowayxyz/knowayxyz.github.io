@@ -28,6 +28,9 @@ page_foot(){
         </span>
       </footer>
     </div>
+    <div hidden>
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m7xhRDcb3dcW9F4-NrDlH-1amcon0eWqQLIbPsDfJcc&cl=ffffff&w=a"></script>
+    </div>
   </body>
 </html>
 EOF
