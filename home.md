@@ -21,5 +21,5 @@ Some of my papers: [Google Scholar](https://scholar.google.com/citations?user=q8
 * 2020-09-04, I completed a long bike travel alone the hu-line: <a href="http://huline.xyz/">http://huline.xyz/</a>
 
 ## Writings
-* [骑胡线——自行车穿行中国之旅（持续更新）](pages/hulineride.html)
+* [骑胡线——自行车穿行中国之旅（更新7月5日）](pages/hulineride.html)
 * [我的马拉松记事](pages/mymarathon.html)
