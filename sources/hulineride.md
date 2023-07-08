@@ -74,7 +74,7 @@
 
 很累的一天，好好睡一觉，明日继续出发。
 
-## 3 骑行第2日：怒江大桥->（7月7日）
+## 3 骑行第2日：怒江大桥 -> 保山市（7月7日）
 骑胡线第2日骑行线路数据概况
 
 <img src="../static/huline/s02map.png" style="width:8in; margin-right:15px;"/>
@@ -103,3 +103,23 @@
 <img src="../static/huline/s0205.jpg" style="width:8in; margin-right:15px;"/>
 
 骑行在路上，本质上是怎么方便怎么来，而不是要帅气好看。
+
+## 4 骑行第3日：保山市——永平县（7月8日）
+
+<img src="../static/huline/s03map.png" style="width:8in; margin-right:15px;"/>
+
+今天出发从保山道永平县，修整一日，加上前两天的适应期，今天的爬坡还是可以爬得动，推车少了很多，大部分时间都是慢速骑行上去的。
+
+<img src="../static/huline/s0301.jpg" style="width:8in; margin-right:15px;"/>
+
+上完第一个坡之后路过一个镇子，在路口吃了饭，毕竟后面还有一个大坡需要爬。点了份毛豆米炒火腿肉，有点咸了。得亏和店家讲了价钱，肉可以少放点，少10元钱，不然也吃不下那么多咸肉啊。店家有几坛子酒，问了是米酒，度数不高，不过还是不敢酒驾，就没有要上一杯。吃饱休息了一会，灌了一壶水就出发了。
+
+<img src="../static/huline/s0302.jpg" style="width:8in; margin-right:15px;"/>
+<img src="../static/huline/s0303.jpg" style="width:8in; margin-right:15px;"/>
+
+下坡一小段后就是沿着澜沧江走，然后过永保桥后沿着盘山公路上山，在山腰有个路边刚好有个口子，就停车过去看看，俯瞰澜沧江，甚是壮观。一个感想，看似慢条斯理，实则蕴千万之力。
+
+<img src="../static/huline/s0304.jpg" style="width:8in; margin-right:15px;"/>
+<img src="../static/huline/s0305.jpg" style="width:8in; margin-right:15px;"/>
+
+进入永平之后，就在博南镇住下，环境还不错。博南算是新区，也是永平的经济中心，不过整体看仍然人气不足。很多家具设备店。因为沿路看到过永平黄焖鸡，就找了附近评价最好的一家，过去要了一个单人套餐，分量还不错，一份鸡，一份豌豆苗豆腐汤，一罐柠檬汁，一碟瓜子，吃的满足。
