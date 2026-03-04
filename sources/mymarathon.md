@@ -30,13 +30,13 @@
 
 下图是我的训练日志统计图：
 
-<img src="/static/2015beijingmarathontraining.png" style="width:7.5in"/>
+<img src="../static/marathon/2015beijingmarathontraining.png"/>
 
 可以看出训练大都保证10公里的量，一共完成了5个半程及以上的距离。一个月左右完成了第一次半程马拉松，两个月左右的时候完成一次25+公里距离训练，在离比赛10天的时候尝试了一次30+公里，三个里程碑直接完成两次半程马拉松。
 
 #### 运动轨迹图
 
-<img src="/static/2015beijingmarathontrainingmap.png"/>
+<img src="../static/marathon/2015beijingmarathontrainingmap.png"/>
 
 #### 进步情况
 
@@ -81,11 +81,11 @@
 ### 3.1比赛数据
 
 * 比赛运动轨迹地图
-<img src="/static/marathontracks.png"  style="width:7.5in"/>
+<img src="../static/marathon/marathontracks.png" />
 * 比赛官方成绩
   2015北马：04:44:01
   2016汉马：04:11:01
-<img src="/static/marathonachievements.png" style="width:7.5in"/>
+<img src="../static/marathon/marathonachievements.png"/>
 
 ### 3.2 比赛感受
 

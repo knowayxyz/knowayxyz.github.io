@@ -6,28 +6,29 @@ echo generateing site: $site_title
 page_head(){
   local title="$1"
   cat <<EOF
-<html>
+<!DOCTYPE html>
+<html lang="zh">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>$title</title>
     <link rel="stylesheet" type="text/css" href="/static/home.css">
     <link rel="icon" type="image/png" href="/static/favicon.png">
   </head>
   <body>
-    <div>
+    <div class="container">
     <hr/>
 EOF
 }
 
 page_foot(){
   cat <<EOF
-      <hr/>
-      <footer>
-        <span style="float:left"> &copy; 2021 <a href="/">$site_title</a> </span>
-        <span style="float:right"> Because it's there - George Mallory.</span>
-        </span>
-      </footer>
     </div>
+    <footer>
+      <hr/>
+      <span style="float:left"> &copy; 2025 <a href="/">$site_title</a> </span>
+      <span style="float:right"> Because it's there - George Mallory.</span>
+    </footer>
     <div hidden>
       <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m7xhRDcb3dcW9F4-NrDlH-1amcon0eWqQLIbPsDfJcc&cl=ffffff&w=a"></script>
     </div>

@@ -1,28 +1,12 @@
 #!/usr/bin/env python3
 #coding=utf-8
 import sys
-import re
-import pygments
-import pygments.formatters
-import hoedown as hd
+import mistune
 
-#reload(sys)
-#sys.setdefaultencoding("utf-8")
-
-exts = hd.EXT_NO_INTRA_EMPHASIS | hd.EXT_TABLES | hd.EXT_FENCED_CODE | hd.EXT_FOOTNOTES
-
-class Renderer(hd.HtmlRenderer, hd.SmartyPants):
-    formatter = pygments.formatters.HtmlFormatter()
-
-    def block_code(self, text, lang):
-        try:
-            lexer = pygments.lexers.get_lexer_by_name(lang)
-        except ValueError:
-            lexer = pygments.lexers.TextLexer()
-
-        return pygments.highlight(text, lexer, self.formatter)
-
-mdrender = hd.Markdown(Renderer(0), exts).render
+md = mistune.create_markdown(
+    escape=False,
+    plugins=['table', 'footnotes', 'strikethrough']
+)
 
 if __name__ == "__main__":
-    sys.stdout.write(mdrender(sys.stdin.read()))
+    sys.stdout.write(md(sys.stdin.read()))
